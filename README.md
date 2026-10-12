@@ -1,6 +1,6 @@
 # HR Assistant RAG Chatbot (FAISS + Flask + OpenAI)
 
-A production-ready HR Assistant chatbot powered by Retrieval-Augmented Generation (RAG) using [FAISS](https://github.com/facebookresearch/faiss), [OpenAI/Azure OpenAI](https://platform.openai.com/docs/), and Flask.
+A production-ready HR Assistant chatbot powered by Retrieval-Augmented Generation (RAG) using [FAISS](https://github.com/facebookresearch/faiss), [OpenAI/Azure OpenAI](https://platform.openai.com/docs/), and Flask. akash
 
 * **Upload** HR policy docs (TXT files) from anywhere—never saved to a static data folder.
 * **Chunked and embedded** on upload, indexed with FAISS for fast retrieval.
